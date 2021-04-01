@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Andy Nadvorny
-- 👀 I’m interested in fron-end development with a focus on user experience
-- 🌱 React and NextJS
+- ✨ I’m interested in fron-end development with a focus on user experience
+- 🚀 React and NextJS
 - 📫 andynadvorny@gmail.com
 
 <!---
