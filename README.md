@@ -3,7 +3,4 @@
 - 🚀 React and NextJS
 - 📫 andynadvorny@gmail.com
 
-<!---
-andynadvorny/andynadvorny is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<img src="https://raw.githubusercontent.com/andynadvorny/andynadvorny/output/github-contribution-grid-snake.svg" alt="snake animation" style="max-width:100%" />
